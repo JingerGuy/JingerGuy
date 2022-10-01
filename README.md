@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">A passionate DevOps & Cloud Student</h3>
+<h3 align="center">Welcome to my Github</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jingerguy&label=Profile%20views&color=0e75b6&style=flat" alt="jingerguy" /> </p>
 
